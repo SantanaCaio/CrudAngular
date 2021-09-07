@@ -5,3 +5,11 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.red{
+  color: rgb(196, 0, 20);
+}
+
+.v-meddle{
+  vertical-align: middle;
+}
