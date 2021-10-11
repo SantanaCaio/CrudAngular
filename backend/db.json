@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "nome": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "nome": "PS%",
+      "price": 5999.9
+    },
+    {
+      "id": 3,
+      "nome": "IPHONE",
+      "price": 4990
+    },
+    {
+      "name": "Geladeira",
+      "price": "5890.90",
+      "id": 4
+    },
+    {
+      "name": "Iphone X",
+      "price": "5890.90",
+      "id": 5
+    }
+  ]
+}
