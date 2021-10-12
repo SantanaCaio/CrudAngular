@@ -24,6 +24,16 @@
       "name": "Iphone X",
       "price": "5890.90",
       "id": 5
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 6
+    },
+    {
+      "name": "Paçoquinha de mil quilos",
+      "price": "139.89",
+      "id": 7
     }
   ]
 }

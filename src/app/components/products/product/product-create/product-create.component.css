@@ -2,4 +2,10 @@
   width: 20%;
   display: flex;
   justify-content: space-between;
+  padding-top: 15px;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
 }
