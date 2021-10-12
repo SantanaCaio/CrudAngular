@@ -2,17 +2,17 @@
   "products": [
     {
       "id": 1,
-      "nome": "Caneta BIC Preta",
+      "name": "Caneta BIC Preta",
       "price": 5.89
     },
     {
       "id": 2,
-      "nome": "PS%",
+      "name": "PS5",
       "price": 5999.9
     },
     {
       "id": 3,
-      "nome": "IPHONE",
+      "name": "IPHONE",
       "price": 4990
     },
     {
@@ -26,14 +26,29 @@
       "id": 5
     },
     {
-      "name": "",
-      "price": 0,
-      "id": 6
-    },
-    {
       "name": "Paçoquinha de mil quilos",
       "price": "139.89",
       "id": 7
+    },
+    {
+      "name": "Doce de Leite Enjoativo",
+      "price": "5.99",
+      "id": 8
+    },
+    {
+      "name": "Drone ",
+      "price": "5000.00",
+      "id": 9
+    },
+    {
+      "name": "flores para a lane",
+      "price": "não tem preço",
+      "id": 10
+    },
+    {
+      "name": "tyuty",
+      "price": "465645",
+      "id": 11
     }
   ]
 }
