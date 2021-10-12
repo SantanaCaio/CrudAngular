@@ -3,19 +3,18 @@
   <form>
     <mat-form-field>
       <mat-label>Digite o nome do produto.</mat-label>
-      <input matInput name="product" [(ngModel)]="product.name"/>
+      <input matInput name="name" [(ngModel)]="product.name" />
     </mat-form-field>
+
     <mat-form-field>
       <mat-label>Digite o preço do produto.</mat-label>
-      <input matInput name="product" [(ngModel)]="product.price"/>
+      <input matInput name="price" [(ngModel)]="product.price" />
     </mat-form-field>
   </form>
-  
   <div class="botoes">
-    <button mat-raised-button (click)="createProduct()" color="primary">
+    <button mat-raised-button (click)="updateProduct()" color="primary">
       SALVAR
     </button>
     <button mat-raised-button (click)="cancel()" color="">CANCELAR</button>
   </div>
 </mat-card>
-  

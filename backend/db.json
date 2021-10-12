@@ -1,21 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
-    },
-    {
-      "id": 2,
-      "name": "PS5",
-      "price": 5999.9
-    },
-    {
-      "id": 3,
-      "name": "IPHONE",
-      "price": 4990
-    },
-    {
       "name": "Geladeira",
       "price": "5890.90",
       "id": 4
@@ -31,24 +16,14 @@
       "id": 7
     },
     {
-      "name": "Doce de Leite Enjoativo",
-      "price": "5.99",
-      "id": 8
-    },
-    {
       "name": "Drone ",
       "price": "5000.00",
       "id": 9
     },
     {
-      "name": "flores para a lane",
-      "price": "não tem preço",
+      "name": "Produto teste, para ser deletado",
+      "price": "1999.90",
       "id": 10
-    },
-    {
-      "name": "tyuty",
-      "price": "465645",
-      "id": 11
     }
   ]
 }

@@ -1,0 +1,20 @@
+<mat-card>
+   <p>APAGAR PRODUTO</p>
+   <form>
+     <mat-form-field>
+       <mat-label>Digite o nome do produto.</mat-label>
+       <input matInput disabled name="name" [value]="product.name"/>
+     </mat-form-field>
+ 
+     <mat-form-field>
+       <mat-label>Digite o preço do produto.</mat-label>
+       <input matInput disabled name="price" [value]="product.price"/>
+     </mat-form-field>
+   </form>
+   <div class="botoes">
+     <button mat-raised-button (click)="deleteProduct()" color="warn">
+       DELETAR
+     </button>
+     <button mat-raised-button >CANCELAR</button>
+   </div>
+ </mat-card>

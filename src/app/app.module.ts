@@ -23,6 +23,8 @@ import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
 import { ProductReadComponent } from './components/products/product/product-read/product-read.component';
 import {MatTableModule} from '@angular/material/table';
+import { ProductUpdateComponent } from './components/products/product/product-update/product-update.component';
+import { ProductDeleteComponent } from './components/products/product/product-delete/product-delete.component';
 
 
 
@@ -38,6 +40,8 @@ import {MatTableModule} from '@angular/material/table';
     ForDirective,
     ProductCreateComponent,
     ProductReadComponent,
+    ProductUpdateComponent,
+    ProductDeleteComponent,
     
   ],
   imports: [

@@ -19,5 +19,6 @@ export class ProductReadComponent implements OnInit {
       return products
     })
   }
+  
 
 }
